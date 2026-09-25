@@ -32,6 +32,3 @@ production-style backends and cross-platform apps.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-![Hrishap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishap&show_icons=true&theme=default&hide_title=false)
