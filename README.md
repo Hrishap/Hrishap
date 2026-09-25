@@ -13,10 +13,12 @@ production-style backends and cross-platform apps.
 
 | | |
 |---|---|
-| **[eve-diagnostics-api](https://github.com/Hrishap/eve-diagnostics-api)** | FastAPI backend for diagnostic test bookings — auth, centres/tests, bookings, and an idempotent simulated-payment webhook. Postgres/Supabase + Docker, tested. |
-| **[support-triage-agent](https://github.com/Hrishap/support-triage-agent)** | AI support-triage agent: classifies intent, drafts grounded replies via retrieval over ~6k real support conversations, and decides auto-handle vs. escalate. |
 | **[pawpatrol-stray-rescue-app](https://github.com/Hrishap/pawpatrol-stray-rescue-app)** | Community stray-animal rescue coordination app — React Native + Expo, Supabase (Postgres/RLS/Realtime), trilingual (EN/ML/HI), keyless OpenStreetMap maps. |
+| **[MoodMenu](https://github.com/Hrishap/MoodMenu)** | AI-powered recipe suggestion app based on mood — Gemini AI, React + Tailwind, JWT auth, mood/recipe history & analytics. |
 | **[SwarmMind](https://github.com/Hrishap/SwarmMind)** | What if AI agents started a civilization? Multi-agent simulation experiment. |
+| **[ParallelLives](https://github.com/Hrishap/ParallelLives)** | Explore alternate versions of your life — what if you'd chosen differently? |
+| **[Ai-powered-image-generator](https://github.com/Hrishap/Ai-powered-image-generator)** | AI image generator built with Next.js + TypeScript. |
+| **[Heart-Disease-predictor](https://github.com/Hrishap/Heart-Disease-predictor)** | End-to-end heart disease classification with ML (Jupyter Notebook). |
 
 ---
 
