@@ -6,6 +6,7 @@ production-style backends and cross-platform apps.
 - 🔭 Building agentic AI systems, backend APIs, and mobile/web apps
 - 🌱 Recently: RAG-based support agents, healthcare booking APIs, community rescue apps
 - 📫 Reach me at hrishapjoshi@gmail.com
+- 🌐 Portfolio: [city-portfolio-one.vercel.app](https://city-portfolio-one.vercel.app/)
 
 ---
 
