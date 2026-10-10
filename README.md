@@ -1,24 +1,21 @@
-<p align="center"><img src="assets/banner.svg" alt="Hrishap Joshi — drawing the city" width="100%"/></p>
+<p align="center"><img src="assets/banner-v2.svg" alt="Hrishap Joshi — backends in Java &amp; Spring Boot, agents, Next.js" width="100%"/></p>
 
 <p align="center">
-<a href="https://city-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/ENTER_THE_CITY-→-edba48?style=for-the-badge&labelColor=26261f"/></a>
-<a href="mailto:hrishapjoshi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hrishapjoshi@gmail.com-ec6b5f?style=for-the-badge&labelColor=26261f"/></a>
+<a href="https://city-portfolio-one.vercel.app/"><img src="assets/btn-city.svg" alt="Enter the city →" height="50"/></a>
+<a href="mailto:hrishapjoshi@gmail.com"><img src="assets/btn-mail.svg" alt="hrishapjoshi@gmail.com" height="50"/></a>
 </p>
 
-### 🏛 The Study
-Software engineer building distributed backends in **Java & Spring Boot**, and the **Next.js** interfaces on top of them. Now: agentic AI systems, RAG support agents, healthcare booking APIs and community rescue apps.
+<p align="center"><img src="assets/study.svg" alt="The Study — Software engineer building distributed backends in Java &amp; Spring Boot, and the Next.js interfaces on top of them. Graduating 2026, open to SDE / backend roles." width="100%"/></p>
 
-### 🖼 The Gallery · things I've built
-| | Project | What it is |
-|---|---|---|
-| 🟦 | [**pawpatrol-stray-rescue-app**](https://github.com/Hrishap/pawpatrol-stray-rescue-app) | Community stray-animal rescue — React Native + Expo, Supabase (Postgres/RLS/Realtime), EN/ML/HI, keyless OpenStreetMap |
-| 🟨 | [**MoodMenu**](https://github.com/Hrishap/MoodMenu) | Mood-based recipe suggestions — Gemini AI, React, Tailwind, JWT auth, analytics |
-| 🟥 | [**SwarmMind**](https://github.com/Hrishap/SwarmMind) | What if AI agents started a civilization? Multi-agent simulation |
-| 🟪 | [**ParallelLives**](https://github.com/Hrishap/ParallelLives) | Explore alternate versions of your life |
-| 🟩 | [**Ai-powered-image-generator**](https://github.com/Hrishap/Ai-powered-image-generator) | Next.js + TypeScript image generator |
-| 🟧 | [**Heart-Disease-predictor**](https://github.com/Hrishap/Heart-Disease-predictor) | End-to-end heart disease classification (Jupyter) |
+<p align="center"><img src="assets/gallery-heading.svg" alt="The Gallery — things I've built" width="100%"/></p>
 
-### 🛠 The Workshop · tech I use
-<img src="https://img.shields.io/badge/Java-ec8a3b?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Spring_Boot-5cba72?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/TypeScript-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/JavaScript-edba48?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Node.js-5cba72?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/React-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Next.js-26261f?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Python-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/C++-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/PostgreSQL-b07ed1?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/MongoDB-5cba72?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/AWS-ec8a3b?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Docker-4f9de0?style=flat-square&labelColor=26261f"/>
+<p align="center">
+<a href="https://github.com/Hrishap/pawpatrol-stray-rescue-app"><img src="assets/card-pawpatrol.svg" width="49%" alt="pawpatrol"/></a>
+<a href="https://github.com/Hrishap/MoodMenu"><img src="assets/card-moodmenu.svg" width="49%" alt="MoodMenu"/></a>
+<a href="https://github.com/Hrishap/SwarmMind"><img src="assets/card-swarmmind.svg" width="49%" alt="SwarmMind"/></a>
+<a href="https://github.com/Hrishap/ParallelLives"><img src="assets/card-parallellives.svg" width="49%" alt="ParallelLives"/></a>
+<a href="https://github.com/Hrishap/Ai-powered-image-generator"><img src="assets/card-image-generator.svg" width="49%" alt="AI Image Generator"/></a>
+<a href="https://github.com/Hrishap/Heart-Disease-predictor"><img src="assets/card-heart-disease.svg" width="49%" alt="Heart Disease Predictor"/></a>
+</p>
 
-<sub>Graduating 2026 · open to SDE / backend roles</sub>
+<p align="center"><img src="assets/workshop.svg" alt="The Workshop — Java, Spring Boot, TypeScript, JavaScript, Node.js, React, Next.js, Python, C++, PostgreSQL, MongoDB, AWS, Docker" width="100%"/></p>
