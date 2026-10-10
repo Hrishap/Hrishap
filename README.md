@@ -1,40 +1,24 @@
-### Hi, I'm Hrishap 👋
+<p align="center"><img src="assets/banner.svg" alt="Hrishap Joshi — drawing the city" width="100%"/></p>
 
-I build full-stack and AI-powered projects — from autonomous agents to
-production-style backends and cross-platform apps.
+<p align="center">
+<a href="https://city-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/ENTER_THE_CITY-→-edba48?style=for-the-badge&labelColor=26261f"/></a>
+<a href="mailto:hrishapjoshi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hrishapjoshi@gmail.com-ec6b5f?style=for-the-badge&labelColor=26261f"/></a>
+</p>
 
-- 🔭 Building agentic AI systems, backend APIs, and mobile/web apps
-- 🌱 Recently: RAG-based support agents, healthcare booking APIs, community rescue apps
-- 📫 Reach me at hrishapjoshi@gmail.com
-- 🌐 Portfolio: [city-portfolio-one.vercel.app](https://city-portfolio-one.vercel.app/)
+### 🏛 The Study
+Software engineer building distributed backends in **Java & Spring Boot**, and the **Next.js** interfaces on top of them. Now: agentic AI systems, RAG support agents, healthcare booking APIs and community rescue apps.
 
----
+### 🖼 The Gallery · things I've built
+| | Project | What it is |
+|---|---|---|
+| 🟦 | [**pawpatrol-stray-rescue-app**](https://github.com/Hrishap/pawpatrol-stray-rescue-app) | Community stray-animal rescue — React Native + Expo, Supabase (Postgres/RLS/Realtime), EN/ML/HI, keyless OpenStreetMap |
+| 🟨 | [**MoodMenu**](https://github.com/Hrishap/MoodMenu) | Mood-based recipe suggestions — Gemini AI, React, Tailwind, JWT auth, analytics |
+| 🟥 | [**SwarmMind**](https://github.com/Hrishap/SwarmMind) | What if AI agents started a civilization? Multi-agent simulation |
+| 🟪 | [**ParallelLives**](https://github.com/Hrishap/ParallelLives) | Explore alternate versions of your life |
+| 🟩 | [**Ai-powered-image-generator**](https://github.com/Hrishap/Ai-powered-image-generator) | Next.js + TypeScript image generator |
+| 🟧 | [**Heart-Disease-predictor**](https://github.com/Hrishap/Heart-Disease-predictor) | End-to-end heart disease classification (Jupyter) |
 
-### 🚀 Featured projects
+### 🛠 The Workshop · tech I use
+<img src="https://img.shields.io/badge/Java-ec8a3b?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Spring_Boot-5cba72?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/TypeScript-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/JavaScript-edba48?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Node.js-5cba72?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/React-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Next.js-26261f?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Python-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/C++-4f9de0?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/PostgreSQL-b07ed1?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/MongoDB-5cba72?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/AWS-ec8a3b?style=flat-square&labelColor=26261f"/> <img src="https://img.shields.io/badge/Docker-4f9de0?style=flat-square&labelColor=26261f"/>
 
-| | |
-|---|---|
-| **[pawpatrol-stray-rescue-app](https://github.com/Hrishap/pawpatrol-stray-rescue-app)** | Community stray-animal rescue coordination app — React Native + Expo, Supabase (Postgres/RLS/Realtime), trilingual (EN/ML/HI), keyless OpenStreetMap maps. |
-| **[MoodMenu](https://github.com/Hrishap/MoodMenu)** | AI-powered recipe suggestion app based on mood — Gemini AI, React + Tailwind, JWT auth, mood/recipe history & analytics. |
-| **[SwarmMind](https://github.com/Hrishap/SwarmMind)** | What if AI agents started a civilization? Multi-agent simulation experiment. |
-| **[ParallelLives](https://github.com/Hrishap/ParallelLives)** | Explore alternate versions of your life — what if you'd chosen differently? |
-| **[Ai-powered-image-generator](https://github.com/Hrishap/Ai-powered-image-generator)** | AI image generator built with Next.js + TypeScript. |
-| **[Heart-Disease-predictor](https://github.com/Hrishap/Heart-Disease-predictor)** | End-to-end heart disease classification with ML (Jupyter Notebook). |
-
----
-
-### 🛠️ Tech I use
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<sub>Graduating 2026 · open to SDE / backend roles</sub>
